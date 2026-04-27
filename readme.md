@@ -56,15 +56,7 @@ This project uncovers:
 
 ## 🔄 Data Workflow
 
-```mermaid
-flowchart LR
-    A[Raw Excel Data] --> B[Data Cleaning]
-    B --> C[Feature Engineering]
-    C --> D[Data Merging]
-    D --> E[Master Dataset]
-    E --> F[EDA & Visualization]
-    F --> G[Insights & Recommendations]
-```
+[Raw Excel Data] → [Data Cleaning] → [Feature Engineering] → [Data Merging] → [Master Dataset] → [EDA & Visualization] → [Insights & Recommendations]
 
 ---
 
