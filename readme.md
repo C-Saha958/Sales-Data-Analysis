@@ -135,7 +135,6 @@ This project uncovers:
 
 ## 📎 Future Enhancements
 
-* 📊 Build Power BI / Tableau Dashboard
 * 🔮 Sales Forecasting using ML
 * 👥 Customer Segmentation (RFM Analysis)
 
