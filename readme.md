@@ -72,25 +72,25 @@ flowchart LR
 
 ### 📈 Top Products by Profit Margin (%)
 
-![Top](assets\top_10_product_by_profit_margin.png)
+![Top](assets/top_10_product_by_profit_margin.png)
 
 ---
 
 ### 💰 Profit Margin vs Unit Price
 
-![Margin](assets\profit_margin_vs._unit_price.png)
+![Margin](assets/profit_margin_vs._unit_price.png)
 
 ---
 
 ### 🌍 Regional Revenue Distribution
 
-![Region](assets\total_sales_by_region.png)
+![Region](assets/total_sales_by_region.png)
 
 ---
 
 ### 📅 Monthly Sales Trend
 
-![Trend](assets\monthly_sales_trend.png)
+![Trend](assets/monthly_sales_trend.png)
 
 ---
 
